@@ -10,6 +10,8 @@ class SneaksConfiguration:
         "Minecraft",
         "Team Fortress Two",
         "plr_hightower",
+        "koth_Harvest",
+        "pl_wutville",
         "ctf_2fort",
         "Garry's Mod",
         "Half-Life 2",
